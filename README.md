@@ -14,7 +14,7 @@ MENTOR: NEELA SANTOSH
 
 DESCRIPTION:-
 
-TASK-1: File Integrity Checker
+File Integrity Checker
 
 In the world of cybersecurity and system administration, maintaining the integrity of files is a fundamental requirement. Whether it’s a configuration file on a production server, a log file that records critical events, or an executable used in sensitive operations, any unauthorized or unintended change can lead to serious vulnerabilities, security breaches, or data corruption. To address this, a File Integrity Checker is developed as a security tool that monitors and verifies the consistency and trustworthiness of files over time by comparing their hash values.
 
